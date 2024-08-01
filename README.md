@@ -1,6 +1,15 @@
-# Título do projeto
+# Projeto Base Interface Gráfica X "Banco de Dados"
 
-Um parágrafo da descrição do projeto vai aqui
+Pensando na constante vontade do ser humano de evoluir, partindo da ideia de que o conforto e a simplicidade são essenciais, decedi então começar um pequeno projeto de unir uma interface gráfica a um "banco de dados".
+Entretanto, este projeto ainda não possui a parte de banco de dados no que se refere à linguagem de programação SQL. Fora utilizada uma outra alternativa mais simples e pouco menos complexa, um arquivo .xlsx, ou seja uma planilha.
+Com essa alternativa é notório que não é possível manusear uma planilha comum da mesma forma que fazemos com um banco de dados. Contudo, torna-se possível, aquilo que consideramos favoravelmente básico para um banco de dados, utilizar da mesma forma com uma planilha no que se refere a 2 subconjuntos da linguagem SQL:
+  DQL (Data Query Language):
+  * SELECT.
+
+  DML (Data Manipulation Language):
+  * INSERT;
+  * UPDATE;
+  * DELETE.
 
 ## 🚀 Começando
 
