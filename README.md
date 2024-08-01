@@ -1,8 +1,10 @@
-# Projeto Base Interface Gráfica X "Banco de Dados"
+# Projeto Base -- Interface Gráfica X "Banco de Dados" --
 
 Pensando na constante vontade do ser humano de evoluir, partindo da ideia de que o conforto e a simplicidade são essenciais, decedi então começar um pequeno projeto de unir uma interface gráfica a um "banco de dados".
+
 Entretanto, este projeto ainda não possui a parte de banco de dados no que se refere à linguagem de programação SQL. Fora utilizada uma outra alternativa mais simples e pouco menos complexa, um arquivo .xlsx, ou seja uma planilha.
-Com essa alternativa é notório que não é possível manusear uma planilha comum da mesma forma que fazemos com um banco de dados. Contudo, torna-se possível, aquilo que consideramos favoravelmente básico para um banco de dados, utilizar da mesma forma com uma planilha no que se refere a 2 subconjuntos da linguagem SQL:
+
+Com essa alternativa é notório que não é possível manusear uma planilha comum da mesma forma que fazemos com um banco de dados. Contudo, torna-se possível, aquilo que consideramos favoravelmente básico para um banco de dados, utilizá-lo como uma planilha no que se refere a 2 subconjuntos da linguagem SQL:
   
   DQL (Data Query Language):
   * SELECT.
@@ -12,9 +14,13 @@ Com essa alternativa é notório que não é possível manusear uma planilha com
   * UPDATE;
   * DELETE.
 
-## 🚀 Começando
+Portanto, desenvolvi uma interface gráfica em Python com auxílio das bibliotecas Tkinter e CustomTkinter visando a facilidade de utilização e manipulação de dados dentro desta planilha.
+Vale ressaltar que, julgando pelas limitações de usar planilhas e não um banco de dados a princípio, inspirado nas 4 execuções citadas anteriormente, esta interface somente é capaz de VISUALIZAR, CADASTRAR, ALTERAR e APAGAR os dados!
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+
+## 🚀 Let's get started!!
+
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento, teste ou até mesmo, utilização própria.
 
 Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
