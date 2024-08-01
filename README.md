@@ -69,9 +69,13 @@ Dar exemplos
 ## 📦 Implantação
 
 - Instalar PYTHON
-  -> leia este passo a passo: [Como instalar Python? (WINDOWS)](https://python.org.br/instalacao-windows/)
-                              [Como instalar Python? (LINUX)](https://python.org.br/instalacao-linux/)
-                              [Como instalar Python? (MAC)](https://python.org.br/instalacao-mac/)
+
+  -> leia este passo a passo:
+  [Como instalar Python? (WINDOWS)](https://python.org.br/instalacao-windows/)
+
+  [Como instalar Python? (LINUX)](https://python.org.br/instalacao-linux/)
+
+  [Como instalar Python? (MAC)](https://python.org.br/instalacao-mac/)
 
 - Instalar as bibliotecas
   - pandas
