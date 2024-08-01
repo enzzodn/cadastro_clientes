@@ -22,15 +22,11 @@ Vale ressaltar que, julgando pelas limitações de usar planilhas e não um banc
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento, teste ou até mesmo, utilização própria.
 
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
-
 ### 📋 Pré-requisitos
+Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implementar cada parte do projeto.
 
-De que coisas você precisa para instalar o software e como instalá-lo?
-
-```
-Dar exemplos
-```
+* Instalar Python na sua máquina;
+* Instalar as bibliotecas que serão utilizadas
 
 ### 🔧 Instalação
 
@@ -72,7 +68,14 @@ Dar exemplos
 
 ## 📦 Implantação
 
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
+- Instalar PYTHON
+  -> leia este passo a passo: [Como instalar Python? (WINDOWS)](https://python.org.br/instalacao-windows/)
+                              [Como instalar Python? (LINUX)](https://python.org.br/instalacao-linux/)
+                              [Como instalar Python? (MAC)](https://python.org.br/instalacao-mac/)
+
+- Instalar as bibliotecas
+  - pandas
+  - customtkinter
 
 ## 🛠️ Construído com
 
