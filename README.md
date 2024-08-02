@@ -26,7 +26,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implementar cada parte do projeto.
 
 * Instalar Python na sua máquina;
-* Instalar as bibliotecas que serão utilizadas
+* Instalar as bibliotecas que serão utilizadas.
 
 ### 🔧 Instalação
 
@@ -78,34 +78,19 @@ Dar exemplos
 
     [Como instalar Python? (MAC)](https://python.org.br/instalacao-mac/)
 
-- Instalar as bibliotecas
+- Instalar as bibliotecas:
   - pandas
   - customtkinter
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
+* [Pandas](https://pandas.pydata.org/docs/) - Tratamento de dados
+* [Tkinter](https://docs.python.org/3/library/tkinter.html) - Base GUI
+* [CustomTkinter](https://customtkinter.tomschimansky.com/) - GUI atualizada
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
+## ✒️ Autor
 
-## 🖇️ Colaborando
-
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
-
-## 📌 Versão
-
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
-
-## ✒️ Autores
-
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
-
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
-
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
+* **Enzzo Dias Nogueira** - *Planejador/Arquiteto de Software/Desenvolvedor do projeto geral* - [enzzodn](https://github.com/enzzodn)
 
 ## 📄 Licença
 
@@ -117,7 +102,3 @@ Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](h
 * Convide alguém da equipe para uma cerveja 🍺;
 * Um agradecimento publicamente 🫂;
 * etc.
-
-
----
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
