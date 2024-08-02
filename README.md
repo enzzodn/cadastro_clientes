@@ -25,8 +25,6 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 ### 📋 Pré-requisitos
 Primeiro consulte **[Instalação](#-Instala%C3%A7%C3%A3o)** para saber como instalar a base para toda a execução.
 
-Depois consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implementar cada parte do projeto.
-
 * Instalar Python na sua máquina;
 * Instalar as bibliotecas que serão utilizadas.
 
@@ -71,10 +69,28 @@ Logo após a instalação e implemetação completa, se realizada corretamente, 
 
 Siga este passo-a-passo:
 
-Clique no botão verde **"Code <>"**
+* Clique no botão verde **"Code <>"**
+
 ![Imagem1](https://private-user-images.githubusercontent.com/92381281/354704815-94edd0a3-c712-4de3-895f-55220f02939b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI2Mjc1ODYsIm5iZiI6MTcyMjYyNzI4NiwicGF0aCI6Ii85MjM4MTI4MS8zNTQ3MDQ4MTUtOTRlZGQwYTMtYzcxMi00ZGUzLTg5NWYtNTUyMjBmMDI5MzliLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODAyVDE5MzQ0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ2ZDYyZjM4MjI4YTQ2MjUyYTg2YzU4NjQ3MWNjYzRiYjFjOTQxODcwZTlmNDI1NzRmMmRiNWUxNmNjOGU0MGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.xJEn8Obvsy0v3TMKcCq20509WTK9Tt-0ArtptCckRs8)
 
-Clique no botão **"Download ZIP"**
+* Clique no botão **"Download ZIP"**
+
+![Imagem2](https://private-user-images.githubusercontent.com/92381281/354704818-4a6c87d1-8d29-45f7-8830-cdd66f1c8260.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI2Mjc4NTAsIm5iZiI6MTcyMjYyNzU1MCwicGF0aCI6Ii85MjM4MTI4MS8zNTQ3MDQ4MTgtNGE2Yzg3ZDEtOGQyOS00NWY3LTg4MzAtY2RkNjZmMWM4MjYwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODAyVDE5MzkxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU1ZjkxNGZkZDg4OGM0YWU3ZmJmMjI4ZDBhYjQ4MzkzZjU4OGEwYWJmZjdmZWZkMTRkMTQxNzE0YmJlZWIzZGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.KFEJBq-E36nVa3mz-jwyWKwTxJziV08rl5GyOcPesKo)
+
+* Extraia os arquivos do ZIP para a pasta que desejar (Fique tranquilo! Será apenas uma pasta contendo tudo)
+* Dentro da pasta que você extraiu, terá um arquivo chamado *credenciais.txt*
+  - Esse arquivo txt possui apenas 2 linhas
+      ```
+      usuario
+      senha
+      ```
+  - Você irá alterar essas linhas para o usuário e senha que desejar
+  - ATENCÃO!! Não adicione linhas ou espaço entre elas, ela deve possuir exclusivamente 2 linhas (uma para o Usuário e outra para a Senha)
+
+* Para executar o projeto você deve abrir o arquivo *cadastros.py*
+* Ele, então, irá abrir uma janela preta do Python e a janela da execução em si
+* Você deve minimizar a janela do Python e seguir com sua execução na janela de LOGIN
+* NÃO FECHE A JANELA DO PYTHON! APENAS MINIMIZE-A!
 
 ## 🛠️ Construído com
 
@@ -89,10 +105,3 @@ Clique no botão **"Download ZIP"**
 ## 📄 Licença
 
 Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
-
-## 🎁 Expressões de gratidão
-
-* Conte a outras pessoas sobre este projeto 📢;
-* Convide alguém da equipe para uma cerveja 🍺;
-* Um agradecimento publicamente 🫂;
-* etc.
