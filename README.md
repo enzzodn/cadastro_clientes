@@ -32,12 +32,6 @@ Depois consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como imp
 
 ### 🔧 Instalação
 
-Diga como essa etapa será:
-
-```
-Até finalizar
-```
-
 - Instalar PYTHON
 
   -> leia este passo a passo:
@@ -52,27 +46,26 @@ Até finalizar
   - pandas
   - customtkinter
 
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
+    -> Siga o passo-a-passo abaixo para instalar as bibliotecas
+
+    - Tecla "Windows" -> digite "cmd" e aperte "Enter"
+    - Aparecerá o prompt de comando (uma tela preta com códigos)
+    - Digite:
+      ```
+      py -m pip install "pandas"
+      ```
+    - Espere terminar de carregar e logo após digite:
+      ```
+      py -m pip install "customtkinter"
+      ```
 
 ## ⚙️ Executando os testes
 
-Explicar como executar os testes automatizados para este sistema.
+Fique calmo! A interface gráfica completa foi projetada para lhe guiar no que você precisar! Intuitiva e facilitada.
 
-### 🔩 Analise os testes de ponta a ponta
+Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implementar cada parte do projeto.
 
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-### ⌨️ E testes de estilo de codificação
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
+Logo após a instalação e implemetação completa, se realizada corretamente, o projeto poderá ser usado sem moderação!
 
 ## 📦 Implantação
 
