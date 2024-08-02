@@ -104,4 +104,4 @@ Siga este passo-a-passo:
 
 ## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+Este projeto está sob a licença de Enzzo Dias Nogueira - veja o arquivo [LICENSE.md](https://github.com/enzzodn/cadastro_clientes/blob/main/LICENSE.md) para mais detalhes.
