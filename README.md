@@ -50,11 +50,11 @@ Primeiro consulte **[Instalação](#-Instala%C3%A7%C3%A3o)** para saber como ins
     - Aparecerá o prompt de comando (uma tela preta com códigos)
     - Digite:
       ```
-      py -m pip install "pandas"
+      py -m pip install pandas
       ```
     - Espere terminar de carregar e logo após digite:
       ```
-      py -m pip install "customtkinter"
+      py -m pip install customtkinter
       ```
 
 ## ⚙️ Executando os testes
