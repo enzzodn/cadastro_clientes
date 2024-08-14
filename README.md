@@ -1,6 +1,6 @@
 # Projeto Base -- Interface Gráfica X "Banco de Dados" --
 
-Pensando na constante vontade do ser humano de evoluir, partindo da ideia de que o conforto e a simplicidade são essenciais, decedi então começar um pequeno projeto de unir uma interface gráfica a um "banco de dados".
+Pensando na constante vontade do ser humano de evoluir, partindo da ideia de que o conforto e a simplicidade são essenciais, decidi então começar um pequeno projeto de unir uma interface gráfica a um "banco de dados".
 
 Entretanto, este projeto ainda não possui a parte de banco de dados no que se refere à linguagem de programação SQL. Fora utilizada uma outra alternativa mais simples e pouco menos complexa, um arquivo .xlsx, ou seja uma planilha.
 
